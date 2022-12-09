@@ -15,7 +15,7 @@ A calendar application that allows a user to save their events between 9 a.m. an
 
 ## Installation
 
-Go to [webpage](https://salmaloum.github.io/day-scheduler/)
+Go to [webpage](https://salmaloum.github.io/day-scheduler/) and follow the instructions below.
 
 ## Usage
 
